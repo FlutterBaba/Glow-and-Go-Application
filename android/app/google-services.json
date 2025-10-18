@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "1054838332599",
+    "project_id": "salon-app-4353c",
+    "storage_bucket": "salon-app-4353c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054838332599:android:a888b53f1e1ef87cc44132",
+        "android_client_info": {
+          "package_name": "com.example.salon_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-5tZMcY4o4igcfBl3x8c8sJiExmr99L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054838332599:android:24e7058cbbdd281cc44132",
+        "android_client_info": {
+          "package_name": "com.example.salon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-5tZMcY4o4igcfBl3x8c8sJiExmr99L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054838332599:android:71d7a664647b3168c44132",
+        "android_client_info": {
+          "package_name": "com.example.salon_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-5tZMcY4o4igcfBl3x8c8sJiExmr99L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054838332599:android:ca0fde16ddea64a2c44132",
+        "android_client_info": {
+          "package_name": "com.hogostudios.glowandgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-5tZMcY4o4igcfBl3x8c8sJiExmr99L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054838332599:android:939d42999f705580c44132",
+        "android_client_info": {
+          "package_name": "com.hogostudios.salon_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-5tZMcY4o4igcfBl3x8c8sJiExmr99L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054838332599:android:dfb173a4168c878ec44132",
+        "android_client_info": {
+          "package_name": "com.hogostudios.salonapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-5tZMcY4o4igcfBl3x8c8sJiExmr99L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
